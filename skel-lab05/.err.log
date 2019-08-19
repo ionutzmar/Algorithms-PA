@@ -1,0 +1,43 @@
+
+Compiling cpp/task-3...
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4539 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4543 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4547 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4551 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4555 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4559 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4563 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4567 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4571 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-3...
+double free or corruption (out)
+./check.sh: line 16:  4575 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================

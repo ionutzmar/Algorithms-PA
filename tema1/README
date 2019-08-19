@@ -1,0 +1,23 @@
+Tema 1 PA
+
+Mihalache Ionut Marius 324CC
+
+Problema 1
+In implementarea primei probleme am citit elementele intr-un vector, l-am sortat
+iar apoi am extras pe rand cate un element pentru primul jucator si cate unul pentru
+al doilea pana s-a terminat vectorul. Cand le extrageam din vector le adunam
+la scorul jucatorului. La final am facut diferenta scorurilor si am scris-o in
+fisier.
+Complexitatea este de n log n, data de sortare. Dupa sortare am parcurs vectorul,
+dar nu am depasit in alt loc n log n.
+
+Problema 2
+Mi-am construit matricea dp[i][j], ce reprezinta diferenta maxima ditre cei 2
+jucatori, daca am primele i elemente in vector si voi elimina j elemente.
+Complexitatea este n^2, data de construirea matricei dp.
+
+Problema 3
+Mi-a am construit matricea dp[i][j] ce reprezinta scorul maxim obtinut de primul
+jucator daca are la dispozitie doar elementele de la indicele i la indicele j din
+vector. La final am calculat diferenta dintre cei 2.
+Complexitatea este n^2, data de construirea matricei dp.
